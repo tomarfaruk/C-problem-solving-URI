@@ -1,3 +1,4 @@
+//omar faruk
 #include<stdio.h>
 int main(){
 	int a,b,c,d,p,q,r,l,i,j,k,n;
