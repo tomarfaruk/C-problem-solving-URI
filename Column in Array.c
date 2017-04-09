@@ -1,3 +1,4 @@
+//omar faruk
 #include<stdio.h>
 int main(){
 	double arr[12][12], total=0;
