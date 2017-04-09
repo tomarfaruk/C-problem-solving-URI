@@ -1,3 +1,4 @@
+//omar faruk
 #include<stdio.h>
 int main(){
 	int arr[20] , i = 0;
