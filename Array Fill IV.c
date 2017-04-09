@@ -1,3 +1,4 @@
+//omar faruk
 #include<stdio.h>
 int main(){
 	int arr[15], n, i, k = 0, j = 0, par[15], impar[15];
