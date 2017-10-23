@@ -1,3 +1,4 @@
+//omar faruk
 #include<stdio.h>
 int main(){
 	int a, num[10005], i = 0, j, temp = 0, max = 0;
